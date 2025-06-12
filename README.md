@@ -16,6 +16,21 @@ We are using ADC2, in particular starting from channel IN0 to channels IN14 (exc
 - IN13 $\rightarrow$ PC3
 - IN14 $\rightarrow$ PC4
 
+## Shield pin
+Starting from the left of the shield pinout:
+- PIN 1 $\rightarrow$ IN12
+- PIN 2 $\rightarrow$ IN13
+- PIN 3 $\rightarrow$ IN0
+- PIN 4 $\rightarrow$ IN1
+- PIN 5 $\rightarrow$ IN4
+- PIN 6 $\rightarrow$ IN8
+- PIN 7 $\rightarrow$ IN11
+- PIN 8 $\rightarrow$ IN10
+- PIN 9 $\rightarrow$ IN7
+- PIN 10 $\rightarrow$ IN6
+- PIN 11 $\rightarrow$ IN14
+- PIN 12 $\rightarrow$ IN9
+
 ## Board
 The board used is the [Nucleo F446RE](https://os.mbed.com/platforms/ST-Nucleo-F446RE/).\
 The following images show the pinout of the morpho headers.
